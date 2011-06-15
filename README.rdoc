@@ -1,3 +1,3 @@
 = Shibboleth Rails Example (Ohio State Specific) for the CIC
 
-This is a pretty simplistic example of how we're using Authlogic + Shibboleth in an application at Ohio State.  This is the application_controller, user model, and user session model from an internal project called "AdvisingConnect," wich may be open sourced in the future.  Nothing fancy here, move along :)
+This is a pretty simplistic example of how we're using Authlogic + Shibboleth in an application at Ohio State.  This is the application_controller, user model, and user session model from an internal project called "AdvisingConnect," which may be open sourced in the future.  Nothing fancy here, move along :)
